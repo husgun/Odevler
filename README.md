@@ -51,11 +51,10 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
 
 ## Kurulum ve Gereksinimler
 
-### Kendi Bilgisayarımda Yüklü Video
 
-projelerin genel tanıtımını ve temel adımlarını içeren video :
+## Projeyi Anlatan Video
+projelerin genel tanıtımını ve temel adımlarını içeren video için [buraya tıklayın](https://github.com/husgun/Odevler/blob/93e534236546ad967f321b05be2ceb60376bd55d/proje-tan%C4%B1t%C4%B1m.mp4).
 
-**[Projeler Tanıtım Videosu]("C:\Users\90534\Desktop\proje-tanıtım.mp4")**
 
 ### Donanım
 - **Tiva C Series (TM4C123GXL)** mikrodenetleyicisi
